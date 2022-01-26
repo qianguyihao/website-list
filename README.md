@@ -15,7 +15,7 @@
 
 - 全国图书馆联盟：http://www.ucdrs.superlib.net/
 
-适合找 pdf。
+适合找 pdf。在这里找词条，然后去其他地方找 pdf 资源。
 
 - LoreFree：https://ebook2.lorefree.com/
 
@@ -95,7 +95,11 @@ emoji表情大全。太全了。
 
 - 符号大全：http://www.fhdq.net/
 
-包含各种特殊的符号表情。
+特殊字符收录、各种字符表情。
+
+- emojimix：https://tikolu.net/emojimix/
+
+ 将两个 emoji 表情合成为一个新的 emoji表情。天才般的想象力。
 
 
 ### 字符相关
