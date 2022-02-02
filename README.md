@@ -5,7 +5,7 @@
 
 - 五星：⭐️⭐️⭐️⭐️⭐️ 极力推荐。
 
-- 四星：⭐️⭐️⭐️⭐️⭐️ 比较推荐。
+- 四星：⭐️⭐️⭐️⭐️ 比较推荐。
 
 - 三星：⭐️⭐️⭐️ 碰碰运气。
 
@@ -25,9 +25,15 @@
 
 适合找 pdf。在这里找词条，然后去其他地方找 pdf 资源。
 
+### 电子书资源 ⭐️⭐️⭐️⭐️
+
 - LoreFree：https://ebook2.lorefree.com/
 
 去中心化免费电子书共享社区。
+
+- 书享家：http://shuxiangjia.cn/
+
+电子书导航网站，聚合了很多电子书网站。
 
 ### 电子书资源 ⭐️⭐️⭐️
 
@@ -35,9 +41,7 @@
 
 国外杂志资源。
 
-- 书享家：http://shuxiangjia.cn/
 
-电子书导航网站，聚合了很多电子书网站。
 
 - OAPEN：https://oapen.org/
 
@@ -50,7 +54,7 @@
 
 ## 影视娱乐
 
-### 电影、电视剧资源 ⭐️⭐️⭐️⭐️⭐️
+### 影视资源 ⭐️⭐️⭐️⭐️⭐️
 
 - 低端影视：https://ddrk.me/
 
@@ -69,12 +73,12 @@
 电影资源聚合搜索第一站。
 
 
-### 电影、电视剧资源 ⭐️⭐️⭐️⭐️
+### 影视资源 ⭐️⭐️⭐️⭐️
 
 - 剪影：https://tv.syrme.top/
 
 
-### 电影、电视剧资源 ⭐️⭐️⭐️
+### 影视资源 ⭐️⭐️⭐️
 
 - 独播库：https://www.duboku.tv/
 
@@ -85,9 +89,6 @@
 - 哔嘀影视：https://www.btbdys.com/
 
 在线看；并提供种子。
-
-
-
 
 ## 软件工具
 
@@ -108,6 +109,7 @@
 - 播客小镇：https://podtown.xyz/
 
 在这个地图上，你可以看到原来四处飘散的播客被放在了一个虚拟空间里。
+
 
 ## 字符&排版
 
@@ -144,3 +146,14 @@ the world’s writing systems。字符大全，以及所有字符的 unicode 编
 
 - 中文文案排版指北：https://github.com/sparanoid/chinese-copywriting-guidelines/blob/master/README.zh-Hans.md
 
+## 信息检索
+
+### 互联网考古
+
+- Wayback machine：http://web.archive.org/
+
+互联网考古第一站，可以看到很多网站的早期快照备份。
+
+- 互联网考古项目：https://mediachina.today/tags/internet-archive/
+
+「互联网考古」作业精选，作者均为本课程的学生。作业的主题是研究一个已经关闭/停止运营的网站，从网站的兴衰折射中国内地的媒介与社会变迁。
