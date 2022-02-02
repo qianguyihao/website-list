@@ -92,6 +92,10 @@
 
 ## 软件工具
 
+### 独立开发者
+
+- 中国独立 iOS 和 macOS 开发者图鉴：https://josephchang10.github.io/chinese-indie-hackers/
+
 ### Notion 相关
 
 - Notion 风格头像制作：https://notion-avatar.vercel.app/zh
