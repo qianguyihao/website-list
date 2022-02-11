@@ -161,3 +161,13 @@ the world’s writing systems。字符大全，以及所有字符的 unicode 编
 - 互联网考古项目：https://mediachina.today/tags/internet-archive/
 
 「互联网考古」作业精选，作者均为本课程的学生。作业的主题是研究一个已经关闭/停止运营的网站，从网站的兴衰折射中国内地的媒介与社会变迁。
+
+## 设计
+
+### 3D设计
+
+- Vectary：https://www.vectary.com
+
+在线3D设计工具。没有客户端，直接在网页里进行 3D 设计和预览。支持导入其他 3D 软件的模型，并且没有文件大小限制。提供 Figma插件，能在 Figma 里编辑 3D 模型。
+
+FIigma插件：https://www.figma.com/community/plugin/769588393361258724/Vectary-3D-Elements
