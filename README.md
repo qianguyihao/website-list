@@ -152,6 +152,8 @@ the world’s writing systems。字符大全，以及所有字符的 unicode 编
 
 ## 信息检索
 
+
+
 ### 互联网考古
 
 - Wayback machine：http://web.archive.org/
@@ -161,6 +163,12 @@ the world’s writing systems。字符大全，以及所有字符的 unicode 编
 - 互联网考古项目：https://mediachina.today/tags/internet-archive/
 
 「互联网考古」作业精选，作者均为本课程的学生。作业的主题是研究一个已经关闭/停止运营的网站，从网站的兴衰折射中国内地的媒介与社会变迁。
+
+### OSINT开源情报
+
+- OSINT开源情报获取工具导航：<https://www.osint-labs.org/tools/>
+
+宗旨：分享国内外OSINT资源和工具。目的：为了更好的了解“真相”。
 
 ## 设计
 
