@@ -102,6 +102,18 @@
 
 - Notion Icons：https://www.notion.vip/icons/
 
+### 计算器
+
+
+- Omni Calculator：<https://www.omnicalculator.com/>
+
+Omni Calculator 顾名思义，是一个常用计算器大全。这里所谓的「计算器」包括单位换算，也包括各种公式计算。你可以在这里找到专门计算贷款的 Loan Calculator，也能找到各种统计分布相关的计算器如 Normal Distribution Calculator，还有农业相关的计算器如 Cattle per Acre Calculator……
+
+总之，你日常遇到的任何计算需求，从简单日用品折扣计算、单位产品价格计算，到复杂的概率统计计算、金融产品估值，都能在这里找到相应的计算器。每个计算器都有独立页面，通常附有该计算器的原理和相关理论知识，不至于知其然不知其所以然。
+
+截至目前为止，网站共有两千多个不同类型的计算器，界面友好而且免费。
+
+
 ## 音频&视频
 
 ### 播客相关
