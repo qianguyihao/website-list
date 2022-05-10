@@ -102,6 +102,17 @@
 
 - Notion Icons：https://www.notion.vip/icons/
 
+
+###  格式转换
+
+- ALL TO ALL 在线格式转换：<https://www.alltoall.net/>
+
+### 小工具
+
+- 图形方格纸  MyGraphPaper：<https://www.mygraphpaper.com/index.php?lang=zh-hans>
+
+制作自己的方格笔记本, 寻找适合的笔记法, 学习、工作更清晰。
+
 ### 计算器
 
 
@@ -113,8 +124,28 @@ Omni Calculator 顾名思义，是一个常用计算器大全。这里所谓的�
 
 截至目前为止，网站共有两千多个不同类型的计算器，界面友好而且免费。
 
+- wolframalpha：<https://www.wolframalpha.com/>
 
-## 音频&视频
+一款强大的计算器，从计算数学和化学问题到搜索事实和统计数据。很多科学家和数学家都推荐 WolframAlpha。
+
+
+## 图片&音频&视频
+
+### 图片素材（icon相关）
+
+- macOS App icons：<https://macosicons.com/#/>
+
+
+
+### 图片压缩
+
+- tinypng： <https://tinypng.com/>
+
+- docsmall：<https://docsmall.com/>
+
+- webp2jpg-online：<https://renzhezhilu.github.io/webp2jpg-online/>
+
+GitHub地址：<https://github.com/renzhezhilu/webp2jpg-online>
 
 ### 播客相关
 
@@ -126,8 +157,36 @@ Omni Calculator 顾名思义，是一个常用计算器大全。这里所谓的�
 
 在这个地图上，你可以看到原来四处飘散的播客被放在了一个虚拟空间里。
 
+## 设计
 
-## 字符&排版
+### 3D设计
+
+- Vectary：<https://www.vectary.com>
+
+在线3D设计工具。没有客户端，直接在网页里进行 3D 设计和预览。支持导入其他 3D 软件的模型，并且没有文件大小限制。提供 Figma插件，能在 Figma 里编辑 3D 模型。
+
+FIigma插件：<https://www.figma.com/community/plugin/769588393361258724/Vectary-3D-Elements>
+
+### 图片素材：插画
+
+- unDraw：<https://undraw.co/illustrations>
+
+unDraw是一个免费可商用的高质量插图&插画网站，免费可商用。打开 unDraw 的图标库，你会有眼前一亮的感觉。网站没有广告，并且打开速度极快。页面内图标风格，扁平化风格统一。它是美国设计师 Katerina Limpitsouni 创作的扁平风格图标库。图标质量优秀，模型到位，不论是用于海报制作，还是 PPT 模板，都是不可多得的优秀图标。图标主色调为「黑色 + 自定义颜色」。基本以「人物 + 生活元素」为构成要素。在很多场合中，应用起来毫无违和感。
+
+### 配色
+
+- 线性渐变颜色：<https://webgradients.com/>
+
+### PPT模板
+
+- 镝数图表：<https://dycharts.com/>
+
+
+## 字体&字符&排版
+
+### 字体
+
+- 字体字重测试：<https://font.yukonga.top/index/index6.html>
 
 ### emoji 表情符号
 
@@ -162,14 +221,17 @@ the world’s writing systems。字符大全，以及所有字符的 unicode 编
 
 - 中文文案排版指北：https://github.com/sparanoid/chinese-copywriting-guidelines/blob/master/README.zh-Hans.md
 
-## 信息获取和整理
+## 信息查询
 
+### 图片的exif信息查看
+
+图虫EXIF查看器：<https://exif.tuchong.com/>
 
 ### 信息处理
 
 - 微信公众号链接清洁器：<https://api.o3o.ovh/cleanwechaturl/ui/>
 
-微信公众号文章的长链接，携带了追踪参数，可以追踪用户信息。这个工具提供了一个公开 API 用于清除链接中的追踪参数。可以浏览器直接在线使用也可以通过接口请求
+微信公众号文章的长链接，携带了追踪参数，可以追踪用户信息。这个工具提供了一个公开 API 用于清除链接中的追踪参数。可以浏览器直接在线使用也可以通过接口请求。
 
 ### 互联网考古
 
@@ -187,21 +249,15 @@ the world’s writing systems。字符大全，以及所有字符的 unicode 编
 
 宗旨：分享国内外OSINT资源和工具。目的：为了更好的了解“真相”。
 
-## 设计
+- 标准地图服务：<http://bzdt.ch.mnr.gov.cn/>
 
-### 3D设计
+国际地图、中国地图下载。
 
-- Vectary：https://www.vectary.com
-
-在线3D设计工具。没有客户端，直接在网页里进行 3D 设计和预览。支持导入其他 3D 软件的模型，并且没有文件大小限制。提供 Figma插件，能在 Figma 里编辑 3D 模型。
-
-FIigma插件：https://www.figma.com/community/plugin/769588393361258724/Vectary-3D-Elements
+- IP信息查询：<https://ipw.cn/>
 
 
-### 图片素材：插画
-
-- unDraw：https://undraw.co/illustrations
-
-unDraw是一个免费可商用的高质量插图&插画网站，免费可商用。打开 unDraw 的图标库，你会有眼前一亮的感觉。网站没有广告，并且打开速度极快。页面内图标风格，扁平化风格统一。它是美国设计师 Katerina Limpitsouni 创作的扁平风格图标库。图标质量优秀，模型到位，不论是用于海报制作，还是 PPT 模板，都是不可多得的优秀图标。图标主色调为「黑色 + 自定义颜色」。基本以「人物 + 生活元素」为构成要素。在很多场合中，应用起来毫无违和感。
 
 
+### 法律
+
+法律时代-导航：<https://yesen.cn>
