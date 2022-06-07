@@ -185,6 +185,12 @@ unDraw是一个免费可商用的高质量插图&插画网站，免费可商用�
 
 - 镝数图表：<https://dycharts.com/>
 
+### 设计类社区
+
+- Figma中文社区：<https://www.figma.cool/>
+
+有比较多的资源和插件，比如中文字体选择的插件。
+
 
 ## 字体&字符&排版
 
@@ -286,3 +292,27 @@ the world’s writing systems。字符大全，以及所有字符的 unicode 编
 - 有人喜欢紧急逃生口座位，主要是位置大。也有人喜欢锁了边上的座位，因为这样没有人能打扰到自己。
 
 这个网站就是根据大数据，来告诉你每个航班上哪个座位最合适的。
+
+## 资讯
+
+### 互联网科技资讯
+
+Hacker News: <https://news.ycombinator.com/>
+
+INDIE HACKERS: <https://www.indiehackers.com/>
+
+### 互联网产品资讯
+
+Product Hunt: <https://www.producthunt.com/>
+
+
+### 金融
+
+- 猫总CATMAN：<https://catman.app/>
+
+境外的银行账户、移民、基金、数字货币产品等具体项目的评测。
+
+## 技术相关
+
+- 变量命名网站：https://unbug.github.io/codelf/
+>>>>>>> Stashed changes
