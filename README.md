@@ -15,7 +15,7 @@
 
 - Z-Library：https://z-lib.org/
 
-电子书资源第一站。
+电子书资源第一站。俄罗斯出品。
 
 - Library Genesis：https://libgen.is/
 
@@ -27,29 +27,36 @@
 
 ### 电子书资源 ⭐️⭐️⭐️⭐️
 
+- 古腾堡计划（Project Gutenberg）：<https://www.gutenberg.org/>
+
+一个拥有60,000多种免费电子书的图书馆。汇总众多公用版权的经典图书，特别是丰富的英文图书，你可以将其作为一个免费的英文经典图书馆，它提供 Mobi、Epub 等多个图书格式的免费下载。
+
+值得一提的是，「古登堡计划」里还有大量中文经典图书，比如《红楼梦》，如果没有特别喜好，大家完全可以通过这个渠道获取这些公版图书，你可以在[这里](https://www.gutenberg.org/browse/languages/zh)查找更多中文图书。
+
 - LoreFree：https://ebook2.lorefree.com/
 
 去中心化免费电子书共享社区。
 
-- 书享家：http://shuxiangjia.cn/
 
-电子书导航网站，聚合了很多电子书网站。
+
+
+
 
 ### 电子书资源 ⭐️⭐️⭐️
+
+
+
+- 书享家：<http://shuxiangjia.cn/>
+
+电子书导航网站，聚合了很多电子书网站。
 
 - Magazinelib：https://magazinelib.com/
 
 国外杂志资源。
 
-
-
 - OAPEN：https://oapen.org/
 
 有很多libgen上都没有的学术着作pdf下载，很多都是新书。阿姆斯特丹大学建的电子库，人文社科类的外文书籍为主。
-
-- 古腾堡计划（Project Gutenberg）：https://www.gutenberg.org/
-
-一个拥有60,000多种免费电子书的图书馆。
 
 
 ## 影视娱乐
@@ -252,6 +259,12 @@ the world’s writing systems。字符大全，以及所有字符的 unicode 编
 - 互联网考古项目：https://mediachina.today/tags/internet-archive/
 
 「互联网考古」作业精选，作者均为本课程的学生。作业的主题是研究一个已经关闭/停止运营的网站，从网站的兴衰折射中国内地的媒介与社会变迁。
+
+- https://www.oldestsearch.com/
+
+Oldest Search会带你到几十年前的互联网。譬如搜索 Steve Jobs，首条结果是 1989 年《公司》（Inc.）杂志「十年企业家」专题对乔布斯的访谈。Oldest Search 背后的技术不复杂，就是将 Google 的搜索结果按网页的时间排序。但却能让我们跳出当下，获得更长时间维度的视角。
+
+
 
 ### OSINT开源情报
 
