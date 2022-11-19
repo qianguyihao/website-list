@@ -15,7 +15,7 @@
 
 - Z-Library：https://z-lib.org/
 
-电子书资源第一站。俄罗斯出品。
+电子书资源第一站。俄罗斯出品。（额，网站已被美国查封）。
 
 - Library Genesis：https://libgen.is/
 
@@ -109,7 +109,7 @@
 
 - Notion Icons：https://www.notion.vip/icons/
 
-### 小工具
+### 时间相关
 
 - 对比电脑上的系统时间和标准时间：https://time.is/
 
@@ -117,6 +117,9 @@
 ###  格式转换
 
 - ALL TO ALL 在线格式转换：<https://www.alltoall.net/>
+- 图片、视频在线工具：https://tinywow.com/
+
+
 
 ### 小工具
 
@@ -264,7 +267,9 @@ the world’s writing systems。字符大全，以及所有字符的 unicode 编
 
 Oldest Search会带你到几十年前的互联网。譬如搜索 Steve Jobs，首条结果是 1989 年《公司》（Inc.）杂志「十年企业家」专题对乔布斯的访谈。Oldest Search 背后的技术不复杂，就是将 Google 的搜索结果按网页的时间排序。但却能让我们跳出当下，获得更长时间维度的视角。
 
+\- Mobbin：https://mobbin.com/browse/ios/apps
 
+查看各种App的历史设计和截图。
 
 ### OSINT开源情报
 
@@ -285,8 +290,13 @@ Oldest Search会带你到几十年前的互联网。譬如搜索 Steve Jobs，�
 
 法律时代-导航：<https://yesen.cn>
 
-
 ## 生活
+
+### 城市
+
+- 城市数据查询平台：https://www.gotohui.com/
+
+查各个城市的房价、GDP等。
 
 ### 旅行
 
@@ -304,7 +314,13 @@ Oldest Search会带你到几十年前的互联网。譬如搜索 Steve Jobs，�
 
 - 有人喜欢紧急逃生口座位，主要是位置大。也有人喜欢锁了边上的座位，因为这样没有人能打扰到自己。
 
-这个网站就是根据大数据，来告诉你每个航班上哪个座位最合适的。
+### 利率计算
+
+- 平安-通货膨胀影响消费计算器（现金价值计算）：http://www.pingan.com/pinganone/financial_tools/CalcInflatOrInCom.htm
+
+- 招商银行-个人存款计算器：https://www.cmbchina.com/CmbWebPubInfo/Cal_Saving_Per.aspx
+
+
 
 ## 资讯
 
@@ -328,4 +344,9 @@ Product Hunt: <https://www.producthunt.com/>
 ## 技术相关
 
 - 变量命名网站：https://unbug.github.io/codelf/
->>>>>>> Stashed changes
+
+### json格式化
+
+
+
+- json formatter：https://jsonformatter.com/
