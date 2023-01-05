@@ -142,6 +142,12 @@ Omni Calculator 顾名思义，是一个常用计算器大全。这里所谓的�
 
 一款强大的计算器，从计算数学和化学问题到搜索事实和统计数据。很多科学家和数学家都推荐 WolframAlpha。
 
+### 打字
+
+- Qwerty Learner：https://qwerty.kaiyi.cool/
+
+为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件。
+
 
 ## 图片&音频&视频
 
@@ -297,6 +303,11 @@ Oldest Search会带你到几十年前的互联网。譬如搜索 Steve Jobs，�
 - 城市数据查询平台：https://www.gotohui.com/
 
 查各个城市的房价、GDP等。
+
+
+- 中国地铁信息概览：https://metrodb.org/
+
+这个网站可视化显示全国各个城市的地铁概况，包括每日的客流量。
 
 ### 旅行
 
