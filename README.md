@@ -167,6 +167,20 @@ Omni Calculator 顾名思义，是一个常用计算器大全。这里所谓的�
 
 GitHub地址：<https://github.com/renzhezhilu/webp2jpg-online>
 
+
+
+### 带壳截图
+
+- carbon：https://carbon.now.sh/
+
+将代码生成漂亮的图片。
+
+- https://poet.so/
+
+为 Twitter 的帖子生成精美的分享卡片。
+
+## 音频
+
 ### 播客相关
 
 - Listen Notes：https://www.listennotes.com/zh-hans/
