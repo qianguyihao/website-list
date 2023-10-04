@@ -211,6 +211,11 @@ unDraw是一个免费可商用的高质量插图&插画网站，免费可商用�
 
 - 线性渐变颜色：<https://webgradients.com/>
 
+- Gradient Generator：https://www.joshwcomeau.com/gradient-generator/
+
+生成美丽丰富的渐变色。
+
+
 ### PPT模板
 
 - 镝数图表：<https://dycharts.com/>
@@ -220,6 +225,32 @@ unDraw是一个免费可商用的高质量插图&插画网站，免费可商用�
 - Figma中文社区：<https://www.figma.cool/>
 
 有比较多的资源和插件，比如中文字体选择的插件。
+
+### Apple 苹果产品参数查询
+
+- Mactracker：https://mactracker.ca/
+
+英文网站。提供了苹果设备的详细参数。非常详细。
+
+- Apple 苹果产品参数中心：https://www.onlineit.cn/apple/
+
+查苹果设备的详细参数，以及系统兼容情况。
+
+
+- iPhone 参数大全：https://kylebing.cn/tools/iphone/
+
+来自山东的一名程序员非常喜爱苹果的产品，所以他先后做了 iPad、iPhone、AirPods、处理器、Watch 产品参数大全。
+
+这些参数大全详细列出了各个产品的型号、发布年月、分辨率、屏幕信息、尺寸、CPU、GPU、内存、存储、电池、解锁方式、接口、按键、颜色、前后摄像头、系统支持等。
+
+这个网站也支持勾选产品进行对比，另外还支持 GeekBench 排序和电量排序。
+
+
+
+- Dimensions：https://www.dimensions.com/
+
+尺寸图参考数据库，记录了构成我们世界的日常物体和空间的标准测量和尺寸。这些物体包括苹果产品在内。
+
 
 
 ## 字体&字符&排版
