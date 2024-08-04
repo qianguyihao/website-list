@@ -298,12 +298,6 @@ the world’s writing systems。字符大全，以及所有字符的 unicode 编
 
 图虫EXIF查看器：<https://exif.tuchong.com/>
 
-### 信息处理
-
-- 微信公众号链接清洁器：<https://api.o3o.ovh/cleanwechaturl/ui/>
-
-微信公众号文章的长链接，携带了追踪参数，可以追踪用户信息。这个工具提供了一个公开 API 用于清除链接中的追踪参数。可以浏览器直接在线使用也可以通过接口请求。
-
 ### 互联网考古
 
 - Wayback machine：http://web.archive.org/
