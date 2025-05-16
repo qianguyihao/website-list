@@ -127,6 +127,10 @@
 
 制作自己的方格笔记本, 寻找适合的笔记法, 学习、工作更清晰。
 
+
+- 手写体文稿生成器：https://vtool.pro/handwriting/index.html
+
+
 ### 计算器
 
 
@@ -148,14 +152,18 @@ Omni Calculator 顾名思义，是一个常用计算器大全。这里所谓的�
 
 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件。
 
+### 生成RSS订阅链接
 
-## 图片&音频&视频
+- RSSHub：https://docs.rsshub.app/zh/
+
+- https://rssfeedasap.com/
+
+
+##
 
 ### 图片素材（icon相关）
 
 - macOS App icons：<https://macosicons.com/#/>
-
-
 
 ### 图片压缩
 
@@ -167,8 +175,6 @@ Omni Calculator 顾名思义，是一个常用计算器大全。这里所谓的�
 
 GitHub地址：<https://github.com/renzhezhilu/webp2jpg-online>
 
-
-
 ### 带壳截图
 
 - carbon：https://carbon.now.sh/
@@ -178,6 +184,10 @@ GitHub地址：<https://github.com/renzhezhilu/webp2jpg-online>
 - https://poet.so/
 
 为 Twitter 的帖子生成精美的分享卡片。
+
+### 封面图制作
+
+- O'RLY 封面工厂：https://orly.nanmu.me/
 
 ## 音频
 
@@ -228,9 +238,6 @@ unDraw是一个免费可商用的高质量插图&插画网站，免费可商用�
 
 ### Apple 苹果产品参数查询
 
-- Mactracker：https://mactracker.ca/
-
-英文网站。提供了苹果设备的详细参数。非常详细。
 
 - Apple 苹果产品参数中心：https://www.onlineit.cn/apple/
 
@@ -251,6 +258,9 @@ unDraw是一个免费可商用的高质量插图&插画网站，免费可商用�
 
 尺寸图参考数据库，记录了构成我们世界的日常物体和空间的标准测量和尺寸。这些物体包括苹果产品在内。
 
+- Mactracker：https://mactracker.ca/
+
+英文网站。提供了苹果设备的详细参数。非常详细。
 
 
 ## 字体&字符&排版
